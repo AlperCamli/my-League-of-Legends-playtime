@@ -88,6 +88,10 @@ After you replaced the API key with your own, the first code block of the Python
      
    - Prints and displays the results for analysis.
 
+8. Finding the Mean of Daily Playtime
+
+   - Calculate daily mean playtime and prints the result.
+
      
 ## Project Structure
 
