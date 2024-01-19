@@ -96,6 +96,11 @@ After you replaced the API key with your own, the first code block of the Python
 ## Project Structure
 
 analyze_playtime.py: Main script for fetching and analyzing playtime data.
+
 league_of_legends_dataset.csv: CSV file containing my playtime data.
+
 README.md: Project documentation.
+
+my_LoL_time_Data_Science_Presentaion.pdf: Explanation, analysis and presentation of my own data.
+
 
